@@ -1,54 +1,53 @@
 # Ayush Verma
 
-**Quant Developer & Software Engineer**  
-Building AI agents and trading systems that ship to production.
+**AI & Data Infrastructure Engineer**
 
-Based in Delhi, India. Working at the intersection of algorithmic trading, agentic AI, and real-time systems infrastructure.
+I build production AI agents, data pipelines, and automation systems — end-to-end, Dockerized, and live.
+
+Based in Delhi, India.
+
+---
+
+## Tech Stack
+
+- **AI & LLM:** LangGraph, LangChain, RAG, FAISS, pgvector, Ollama
+- **Backend:** Python, FastAPI, WebSockets, SQLAlchemy, Pydantic
+- **Data:** PostgreSQL, TimescaleDB, Redis, Pandas
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
+- **Infrastructure:** Docker, GitHub Actions, GCP, Railway
 
 ---
 
 ## What I'm Building
 
-**HedgeVision** — systematic trading infrastructure  
-Stat-arb pipelines, dynamic scalping systems, time-series data infra, pair screeners backed by correlation matrices. Python-first, built for live markets.
+**Multi-agent AI orchestration systems** — LangGraph state machines, tool-calling agents, production checkpointing
 
-**ViralEngine** — AI agent layer for content & social automation  
-Orchestrated pipelines, LLM routing, production-grade automation. Social-aware, not toy demos.
+**Real-time data pipelines** — WebSocket ingestion, TimescaleDB storage, FastAPI serving
 
-**CorrelateX** (org) — umbrella for my production systems  
+**Automation systems** — research tools, workflow automation, statistical arbitrage dashboards
 
 ---
 
 ## Selected Work
 
 | Project | What it does | Stack |
-|---|---|---|
-| [Real-Time-Financial-News-Sentiment-Crawler](https://github.com/ayush108108/Real-Time-Financial-News-Sentiment-Crawler) | Scrapes Reuters/CNBC, runs sentiment via lightweight LLM, live signal output | Python, HuggingFace, BeautifulSoup |
-| HedgeVision (private) | Full stat-arb + scalping system — scanner, positions, perf dashboard, Telegram alerts | Python, Supabase, FastAPI |
-| ViralEngine (private) | Multi-agent social automation pipeline | Python, LangGraph, n8n |
-| otb-v1 (private) | Brand + booking platform for hospitality group | Next.js, Shadcn UI |
+|---------|-------------|-------|
+| AI Orchestration System | Multi-agent LangGraph pipelines with state checkpointing | Python, LangGraph, FastAPI |
+| Real-Time Data Pipeline | WebSocket ingestion, TimescaleDB, live dashboards | Python, FastAPI, TimescaleDB |
+| Stat-Arb Dashboard | Pair screening, correlation matrices, live signals | Python, Supabase, FastAPI |
+| Automated Research Tools | LLM-powered research & signal generation | Python, LangChain, HuggingFace |
 
 ---
 
-## Stack
+## Live Work
 
-```
-Languages   Python · TypeScript · JavaScript
-Trading     stat-arb · scalping · time-series · backtesting · Telegram alerts
-AI/Agents   LangGraph · CrewAI · AutoGen · n8n · Flowise
-Infra       FastAPI · Supabase · Replit · Docker
-Frontend    Next.js · Shadcn UI · React
-```
+[ayushv.dev](https://ayushv.dev)
 
 ---
 
-## Find Me
+## Connect
 
-- Portfolio & full work: **[ayushv.dev](https://ayushv.dev)**
-- X (active): **[@MrAyush108](https://x.com/MrAyush108)**
-- LinkedIn: **[in/ayushv108](https://linkedin.com/in/ayushv108)**
-- Email: **[contact@ayushv.dev](mailto:contact@ayushv.dev)**
-
----
-
-<sub>1,400+ contributions last year. Still building.</sub>
+- [LinkedIn](https://linkedin.com/in/ayushv108)
+- [X / Twitter](https://x.com/MrAyush108)
+- [Instagram](https://instagram.com/108_ayushh)
+- [Email](mailto:contact@ayushv.dev)
