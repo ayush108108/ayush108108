@@ -1,53 +1,92 @@
 # Ayush Verma
 
-**AI & Data Infrastructure Engineer**
+**Systems Engineer · AI Infrastructure · Autonomous Trading**
 
-I build production AI agents, data pipelines, and automation systems — end-to-end, Dockerized, and live.
-
-Based in Delhi, India.
+I design and build production systems that operate autonomously — multi-agent AI orchestrators, real-time trading engines, data pipelines at scale, and full-stack SaaS platforms. 38 repositories deep. Based in Delhi, India.
 
 ---
 
-## Tech Stack
+## What I Build
 
-- **AI & LLM:** LangGraph, LangChain, RAG, FAISS, pgvector, Ollama
-- **Backend:** Python, FastAPI, WebSockets, SQLAlchemy, Pydantic
-- **Data:** PostgreSQL, TimescaleDB, Redis, Pandas
-- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
-- **Infrastructure:** Docker, GitHub Actions, GCP, Railway
-
----
-
-## What I'm Building
-
-**Multi-agent AI orchestration systems** — LangGraph state machines, tool-calling agents, production checkpointing
-
-**Real-time data pipelines** — WebSocket ingestion, TimescaleDB storage, FastAPI serving
-
-**Automation systems** — research tools, workflow automation, statistical arbitrage dashboards
-
----
-
-## Selected Work
-
-| Project | What it does | Stack |
-|---------|-------------|-------|
-| AI Orchestration System | Multi-agent LangGraph pipelines with state checkpointing | Python, LangGraph, FastAPI |
-| Real-Time Data Pipeline | WebSocket ingestion, TimescaleDB, live dashboards | Python, FastAPI, TimescaleDB |
-| Stat-Arb Dashboard | Pair screening, correlation matrices, live signals | Python, Supabase, FastAPI |
-| Automated Research Tools | LLM-powered research & signal generation | Python, LangChain, HuggingFace |
+```
+┌─────────────────────────────────────────────────────────────┐
+│                    AUTONOMOUS SYSTEMS                        │
+├───────────────┬─────────────────┬───────────────────────────┤
+│  AI / AGENTS  │  TRADING        │  DATA INFRASTRUCTURE      │
+│               │                 │                           │
+│  Multi-agent  │  Statistical    │  Real-time ETL pipelines  │
+│  orchestrator │  arbitrage      │  WebSocket ingestion      │
+│  LangGraph    │  engine (24/7)  │  TimescaleDB + Redis      │
+│  RAG systems  │  Pair screening │  Scraping infrastructure  │
+│               │  Live signals   │  Media pipelines          │
+├───────────────┴─────────────────┴───────────────────────────┤
+│  FULL-STACK PLATFORMS           │  AUTOMATION               │
+│                                 │                           │
+│  Social media SaaS (FastAPI +   │  LLM-powered research     │
+│  Next.js + Supabase)            │  Browser automation        │
+│  Brand experience platforms     │  Workflow orchestration    │
+│  E-commerce systems             │  Cron + event-driven       │
+└─────────────────────────────────┴───────────────────────────┘
+```
 
 ---
 
-## Live Work
+## Selected Systems
 
-[ayushv.dev](https://ayushv.dev)
+| System | Domain | Scale |
+|--------|--------|-------|
+| **Statistical Arbitrage Engine** | Crypto futures · real-time · multi-strategy | 24/7 operation · pair screening · live signal generation |
+| **VI Engine** | Social media SaaS · content publishing · analytics | FastAPI + Next.js · Supabase · multi-platform API integration |
+| **Multi-Agent AI Orchestrator** | LangGraph state machines · tool-calling agents · RAG | Production checkpointing · streaming · human-in-loop |
+| **Data Pipeline Infrastructure** | WebSocket ingestion · ETL · media processing | TimescaleDB · Redis · Docker · GCP |
+| **Sentiment Analysis Pipeline** | Financial news crawling · NLP · real-time signals | HuggingFace transformers · Python · streaming |
 
 ---
 
-## Connect
+## By the Numbers
 
-- [LinkedIn](https://linkedin.com/in/ayushv108)
-- [X / Twitter](https://x.com/MrAyush108)
-- [Instagram](https://instagram.com/108_ayushh)
-- [Email](mailto:contact@ayushv.dev)
+- **38 repositories** — trading systems, AI agents, data pipelines, full-stack platforms, automation
+- **4 languages** — Python, TypeScript, Rust (learning), SQL
+- **3 domains** — AI/ML infrastructure, quantitative trading, data engineering
+- **24/7 uptime** on production trading infrastructure
+
+---
+
+## Tech Depth
+
+**AI & Agents:** LangGraph · LangChain · RAG · FAISS · pgvector · HuggingFace · Ollama · tool-calling architectures
+
+**Backend:** Python · FastAPI · WebSockets · SQLAlchemy · Pydantic · Node.js · REST APIs
+
+**Data:** PostgreSQL · TimescaleDB · Redis · Supabase · Pandas · ETL pipeline design
+
+**Frontend:** React · Next.js · TypeScript · Tailwind CSS · Shadcn UI · SvelteKit
+
+**Infrastructure:** Docker · GitHub Actions · GCP · systemd · Nginx · Linux (Kali)
+
+**Trading:** Statistical arbitrage · pair trading · correlation matrices · backtesting · Binance API · real-time signal processing
+
+---
+
+## Public Work
+
+| Project | Description | Stars |
+|---------|------------|-------|
+| [hedgevision](https://github.com/ayush108108/hedgevision) | Open-source stat-arb engine — real-time correlation dashboard | ⭐ 9 |
+| [Financial News Sentiment](https://github.com/ayush108108/Real-Time-Financial-News-Sentiment-Crawler) | Sentiment analysis crawler for financial news | ⭐ 4 |
+
+---
+
+## Writing & Presence
+
+- **[ayushv.dev](https://ayushv.dev)** — Personal site & engineering blog
+- **LinkedIn** — [linkedin.com/in/ayushv108](https://linkedin.com/in/ayushv108)
+- **X / Twitter** — [@MrAyush108](https://x.com/MrAyush108)
+
+---
+
+## Currently
+
+Building autonomous agent ecosystems. Exploring latency arbitrage, MEV, and DeFi strategies. Shipping a multi-agent orchestration platform. Open to collaboration on AI infrastructure, trading systems, and data engineering.
+
+**[→ Hireable](https://github.com/ayush108108)** · **contact@ayushv.dev** · **founder@correlatex.com**
