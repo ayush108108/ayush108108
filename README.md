@@ -45,7 +45,8 @@ Build the storage, streaming, deployment, and observability layers required to k
 | System | What it demonstrates |
 |---|---|
 | **CorrelateX** | Lead-intelligence and outreach orchestration with API/event boundaries, deterministic workflow stages, AI-assisted research, approvals, retries, observability, and cost-aware execution |
-| **RAG Intelligence** | Document-intelligence stack with ingestion, hybrid retrieval, reranking, local inference, FastAPI services, and production hardening |
+| **RAG-Intel** (open source, Prototype) | Transparent local retrieval engine — bounded chunking, BM25 + optional FAISS, explicit fusion policy, SQLite state, evidence chunks in every result. [source](https://github.com/ayush108108/RAG-Intel) |
+| **SuperIntel Research** (open source, Prototype) | Quant research extract — event-time pair alignment, Benjamini–Hochberg FDR, point-in-time labels, purged walk-forward evaluation, paper broker only. [source](https://github.com/CorrelateX/superintel-research) |
 | **VI Engine** | FastAPI + Next.js automation platform integrating content generation, publishing, analytics, and external platform APIs |
 | **HedgeVision / Statistical Arbitrage Infrastructure** | Real-time Python systems, WebSocket ingestion, data pipelines, signal generation, and long-running operational workloads |
 | **Financial News Sentiment** | Streaming news ingestion and NLP/sentiment processing in Python |
@@ -56,6 +57,8 @@ Trading systems are included here as evidence of real-time backend and data-infr
 
 ## Public Work
 
+- **[RAG-Intel](https://github.com/ayush108108/RAG-Intel)** — MIT, Prototype: a transparent local retrieval engine (BM25 + optional FAISS, explicit policy, evidence chunks)
+- **[superintel-research](https://github.com/CorrelateX/superintel-research)** — MIT, Prototype: a deliberately narrow quant research extract with a paper broker only
 - **[hedgevision](https://github.com/ayush108108/hedgevision)** — open-source statistical-arbitrage and real-time market-data system
 - **[Real-Time Financial News Sentiment Crawler](https://github.com/ayush108108/Real-Time-Financial-News-Sentiment-Crawler)** — Python news-ingestion and sentiment pipeline
 - More production-oriented AI/RAG/automation work is being progressively documented and opened where appropriate.
