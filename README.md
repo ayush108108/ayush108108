@@ -7,7 +7,7 @@ I design and build production Python systems around AI workflows: FastAPI backen
 
 My work is strongest where an AI feature has to become a real system — with explicit APIs, deterministic steps where possible, retries, observability, cost controls, data contracts, and clean deployment boundaries.
 
-[Portfolio](https://ayushv.dev) · [LinkedIn](https://linkedin.com/in/ayushv108) · **contact@ayushv.dev**
+[Portfolio](https://ayushv.dev) · [LinkedIn](https://linkedin.com/in/ayushv108) · **ayush@correlatex.com**
 
 ---
 
